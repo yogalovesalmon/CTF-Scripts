@@ -1,3 +1,5 @@
+#!/usr/bin/python3 
+
 from z3 import *
 
 key = [BitVec(f'arr[{i}]',8) for i in range(51)]
