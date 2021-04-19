@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import gdb
 
 CHAR_SUCCESS = 0x5655599b
