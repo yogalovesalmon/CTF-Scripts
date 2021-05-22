@@ -1,3 +1,6 @@
+#!/bin/python3
+#### picoCTF2019 Reverse Cipher ####
+
 cipher = 'w1{1wq83k055j5f'
 flag = ""
 
